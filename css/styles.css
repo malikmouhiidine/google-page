@@ -3,7 +3,17 @@
 body {
     margin: 0;
     background-color: #FFFFFF;
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #6F7B84;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #6F7B84;
+    text-decoration: underline;
 }
 
 
@@ -106,3 +116,24 @@ main img {
 
 
 /* everything about i'm felling lucky section !end */
+
+
+/* everything about the footer !start */
+
+footer {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    border-top: 1px solid #E6E7E9;
+    padding-top: 4px;
+    background-color: #F2F2F2;
+}
+
+footer a {
+    margin: 10px;
+}
+
+
+/* everything about the footer !end */
