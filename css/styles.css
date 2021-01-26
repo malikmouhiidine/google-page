@@ -164,5 +164,14 @@ footer a:last-child {
     padding-bottom: 10px;
 }
 
+@media all and (max-width:600px) {
+    footer {
+        justify-content: center;
+    }
+    footer a {
+        margin-top: 5px;
+    }
+}
+
 
 /* everything about the footer !end */
