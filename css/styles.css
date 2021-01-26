@@ -117,8 +117,26 @@ main img {
     margin: 10px auto;
 }
 
+.Im-feeling-lucky p {
+    margin-top: 2em;
+    font-size: 0.8em;
+}
+
+.Im-feeling-lucky a {
+    color: #1A0DAB;
+}
+
 .button-group button {
-    margin: auto 5px;
+    background-color: #F8F9FA;
+    width: 140px;
+    height: 35px;
+    border: none;
+    border-radius: 4px;
+    margin: auto 2px;
+}
+
+.button-group button:hover {
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 0px 3px 0 rgba(0, 0, 0, 0.19);
 }
 
 
