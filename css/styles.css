@@ -65,6 +65,10 @@ main {
     height: 44px;
 }
 
+.search:hover {
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 1px 7px 0 rgba(0, 0, 0, 0.19);
+}
+
 .search input {
     height: 40px;
     flex: 1;
