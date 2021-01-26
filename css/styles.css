@@ -93,6 +93,12 @@ main img {
     outline: none;
 }
 
+@media all and (max-width:600px) {
+    .search input {
+        font-size: 1em;
+    }
+}
+
 .search svg {
     width: 30px;
 }
