@@ -31,12 +31,12 @@ nav {
 }
 
 nav img {
-    width: 2em;
+    width: 2.5em;
     border-radius: 50%;
 }
 
 nav svg {
-    fill: #A6ACB1;
+    fill: #5F6368;
     margin-top: 3px;
     width: 2em;
 }
