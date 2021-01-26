@@ -128,6 +128,12 @@ main img {
 /* everything about the footer !start */
 
 footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    bottom: 0;
     display: flex;
     justify-content: center;
     gap: 10px;
