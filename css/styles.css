@@ -85,6 +85,7 @@ main img {
 }
 
 .search input {
+    font-size: 1.4em;
     height: 40px;
     flex: 1;
     text-decoration: none;
