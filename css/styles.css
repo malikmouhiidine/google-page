@@ -8,3 +8,29 @@ body {
 
 
 /* global stuff !end */
+
+
+/* everything about the navbar !start */
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
+}
+
+nav img,
+svg {
+    width: 43px;
+}
+
+nav a {
+    margin-top: 12px;
+}
+
+nav a:last-child {
+    margin-right: 12px;
+}
+
+
+/* everything about the navbar !end */
